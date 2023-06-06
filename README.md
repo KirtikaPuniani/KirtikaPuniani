@@ -40,7 +40,7 @@
 <p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtikapuniani&theme=radical">
 </a></p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/kirtikapuniani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtikapuniani1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kirtikapuniani?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp4nnjkpysnabzc8gasvsuw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirtikapuniani?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp4nnjkpysnabzc8gasvsuw%3d%3d" height="30" width="40" /></a>
@@ -48,7 +48,7 @@
 <a href="https://instagram.com/kirtikapuniani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtikapuniani" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="center">:headphones:What I am Listening To:notes:</h3>
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm)
 </div>
