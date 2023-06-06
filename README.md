@@ -48,7 +48,8 @@
 <a href="https://instagram.com/kirtikapuniani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtikapuniani" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">What I am Listening To</h2>
+<h3 align="center">:headphones: What I am Listening To :notes:</h3>
+
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-git-main-kirtikapuniani.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm)
+  [![Spotify](https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm)
 </div>
