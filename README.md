@@ -42,3 +42,7 @@
 <a href="https://fb.com/kirtika puniani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kirtika puniani" height="30" width="40" /></a>
 <a href="https://instagram.com/kirtikapuniani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtikapuniani" height="30" width="40" /></a>
 </p>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm)
+</div>
