@@ -41,11 +41,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirtikapuniani&theme=radical" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
+</p> -->
 
 <h2 align="center">My Github Streaks</h2>
 <a align= "center" href="https://github.com/KirtikaPuniani">
