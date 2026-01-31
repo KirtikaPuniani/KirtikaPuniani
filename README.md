@@ -36,18 +36,18 @@
 
 <h2 align="center">My Github stats</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtikapuniani&theme=radical" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtikapuniani&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirtikapuniani&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
 </p>
 
-<h2 align="center">My Github Steaks</h2>
+<h2 align="center">My Github Streaks</h2>
 <a align= "center" href="https://github.com/KirtikaPuniani">
 <p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtikapuniani&theme=radical">
 </a></p>
