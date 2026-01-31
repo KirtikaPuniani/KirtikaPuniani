@@ -33,7 +33,7 @@
 
 
 <h2 align="center">My Github stats</h2>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=kirtikapuniani&show_icons=true&theme=radical" /></p>
+<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kirtikapuniani&show_icons=true&theme=radical&include_all_commits=true" /></p>
 
 <h2 align="center">My Github Steaks</h2>
 <a align= "center" href="https://github.com/KirtikaPuniani">
