@@ -5,9 +5,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirtikapuniani&label=Profile%20views&color=0e75b6&style=flat" alt="kirtikapuniani" /> </p>
 
-- 🔭 I’m currently working on **Domain Integrated Project(Cloud+CyberScurity+Cryptography)**
+- Results-oriented Analytics Engineer with a proven track record of architecting scalable AWS ETL pipelines and delivering predictive modeling solutions for Fortune 500 clients. Expert in Advanced SQL and Python, with demonstrated success in reducing infrastructure costs by 60% and data defects by 40% through automated Change Data Capture pipelines and rule-based logic.
 
-- 🌱 I’m currently learning **JAVA, Python, DevOps, Cyber Security and Forensics.**
+- 🔭 I’m currently building cloud-native data engineering systems and secure encrypted data pipelines on AWS, combining Data Engineering, Cloud Architecture, and Applied Cryptography.
+
+- 🌱 I’m currently deepening my expertise in Advanced Python, SQL, AWS Serverless, DevOps practices, and Security Engineering for scalable analytics platforms..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KirtikaPuniani](https://github.com/KirtikaPuniani)
 
