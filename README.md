@@ -33,7 +33,17 @@
 
 
 <h2 align="center">My Github stats</h2>
-<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kirtikapuniani&show_icons=true&theme=radical&include_all_commits=true" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtikapuniani&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirtikapuniani&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
+</p>
 
 <h2 align="center">My Github Steaks</h2>
 <a align= "center" href="https://github.com/KirtikaPuniani">
