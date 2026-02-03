@@ -51,6 +51,8 @@
 
 <h2 align="center">My GitHub Streaks</h2>
 
+<h2 align="center">My GitHub Streaks</h2>
+
 <p align="center">
   <a href="https://github.com/KirtikaPuniani">
     <img
@@ -60,7 +62,6 @@
     />
   </a>
 </p>
-
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
