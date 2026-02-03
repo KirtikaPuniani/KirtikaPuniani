@@ -49,7 +49,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
 </p>
 
-<h2 align="center">My GitHub Streaks</h2>
 
 <h2 align="center">My GitHub Streaks</h2>
 
