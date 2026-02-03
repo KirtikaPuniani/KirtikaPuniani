@@ -51,7 +51,11 @@
 
 <h2 align="center">My Github Streaks</h2>
 <a align= "center" href="https://github.com/KirtikaPuniani">
-<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtikapuniani&theme=radical">
+<img
+      src="https://streak-stats.demolab.com?user=kirtikapuniani&theme=radical&hide_border=true"
+      alt="GitHub Streak"
+      height="200"
+    />
 </a></p>
 
 <h3 align="center">Connect with me</h3>
