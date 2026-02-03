@@ -35,9 +35,9 @@
 
 
 <h2 align="center">My Github stats</h2>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirtikapuniani&theme=radical" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirtikapuniani&theme=radical" />
