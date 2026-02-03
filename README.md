@@ -49,10 +49,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirtikapuniani&theme=radical" />
 </p>
 
-<h2 align="center">My Github Streaks</h2>
-<a align= "center" href="https://github.com/KirtikaPuniani">
-<img src="https://streak-stats.demolab.com?user=kirtikapuniani&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
-</a></p>
+<h2 align="center">My GitHub Streaks</h2>
+
+<p align="center">
+  <a href="https://github.com/KirtikaPuniani">
+    <img
+      src="https://streak-stats.demolab.com?user=KirtikaPuniani&theme=radical&hide_border=true"
+      alt="GitHub Streak"
+      height="200"
+    />
+  </a>
+</p>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
