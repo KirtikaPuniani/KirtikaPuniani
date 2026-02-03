@@ -31,7 +31,7 @@
 
 <h2 align="center">Languages used</h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtikapuniani&layout=compact&theme=midnight-purple" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtikapuniani&layout=compact&theme=midnight-purple"/></p>
 
 
 <h2 align="center">My Github stats</h2>
