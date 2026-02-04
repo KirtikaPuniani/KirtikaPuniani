@@ -54,11 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/KirtikaPuniani">
-    <img
-      src="https://streak-stats.demolab.com?user=KirtikaPuniani&theme=radical&hide_border=true"
-      alt="GitHub Streak"
-      height="200"
-    />
+    <img src="https://streak-stats.demolab.com?user=KirtikaPuniani&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
   </a>
 </p>
 
