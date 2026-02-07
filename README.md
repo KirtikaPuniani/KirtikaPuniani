@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KirtikaPuniani](https://github.com/KirtikaPuniani)
 
-- 📝 I regularly write articles on [https://thatwaythecookiecrumbles.wordpress.com](https://thatwaythecookiecrumbles.wordpress.com)
-
 - 📫 How to reach me **kirtikapuniani11@gmail.com**
 
 - 📄 My LinkedIn [https://www.linkedin.com/in/kirtikapuniani/](https://www.linkedin.com/in/kirtikapuniani/)
@@ -68,4 +66,6 @@
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm)
-</div> -->
+</div>
+
+- 📝 I regularly write articles on [https://thatwaythecookiecrumbles.wordpress.com](https://thatwaythecookiecrumbles.wordpress.com)  -->
