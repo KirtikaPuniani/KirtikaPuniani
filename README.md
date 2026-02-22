@@ -7,6 +7,9 @@
 
 - Results-oriented Analytics Engineer with a proven track record of architecting scalable AWS ETL pipelines and delivering predictive modeling solutions for Fortune 500 clients. Expert in Advanced SQL and Python, with demonstrated success in reducing infrastructure costs by 60% and data defects by 40% through automated Change Data Capture pipelines and rule-based logic.
 
+
+
+
 - 🔭 I’m currently building cloud-native data engineering systems and secure encrypted data pipelines on AWS, combining Data Engineering, Cloud Architecture, and Applied Cryptography.
 
 - 🌱 I’m currently deepening my expertise in Advanced Python, SQL, AWS Serverless, DevOps practices, and Security Engineering for scalable analytics platforms.
