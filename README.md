@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently building cloud-native data engineering systems and secure encrypted data pipelines on AWS, combining Data Engineering, Cloud Architecture, and Applied Cryptography.
 
-- 🌱 I’m currently deepening my expertise in Advanced Python, SQL, AWS Serverless, DevOps practices, and Security Engineering for scalable analytics platforms.
+- 🌱 I’m currently deepening my expertise in Python, Advanced SQL, AWS Serverless, DevOps practices, and Security Engineering for scalable analytics platforms.
 
 - 📝 I write articles on [https://thatwaythecookiecrumbles.wordpress.com](https://thatwaythecookiecrumbles.wordpress.com)
   
