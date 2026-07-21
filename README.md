@@ -68,6 +68,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nkdjuadojyymwy7hbmfty2jqnm">
-    <img src="https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+    <img 
+      src="https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&cache_seconds=60"
+      alt="Spotify Now Playing"
+      width="400"
+    />
   </a>
 </p>
