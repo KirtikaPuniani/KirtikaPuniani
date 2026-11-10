@@ -71,3 +71,21 @@
     <img src="https://novatorem-seven-woad.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
